@@ -1,0 +1,8 @@
+START
+    STEP 1: Nhập điểm Toán (Math)
+    STEP 2: Nhập điểm Lý (Physics)
+    STEP 3: Nhập điểm Hóa (Chemistry)
+    STEP 4: Tính điểm trung bình (Average) theo công thức:
+            Average = (Math + Physics + Chemistry) / 3
+    STEP 5: Hiển thị điểm trung bình (Average)
+END
